@@ -1,2 +1,2 @@
-# Laborat-rio
+# Laboratorio
 Desenvolvimento software
